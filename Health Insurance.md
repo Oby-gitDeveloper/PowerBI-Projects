@@ -24,7 +24,7 @@ Charges: The medical insurance costs incurred by the insured person
 ## Dashboard Creation
 ![Health Insurance dashboard](https://github.com/Oby-gitDeveloper/KaggleX/assets/69041949/bc967aec-59d7-460c-9e05-9be3aefd179d)
 ![Health Insurance dashboard](https://github.com/Oby-gitDeveloper/PowerBI-Projects/assets/69041949/7c9a11ec-7aed-49ce-9789-ac7735a18915)
-
+![Health Insurance dashboard]https://github.com/Oby-gitDeveloper/PowerBI-Projects/blob/main/Health%20Insurance%20dashboard.jpg
 
 
 ## Insights from the dashboard
